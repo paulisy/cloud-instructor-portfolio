@@ -1,1 +1,14 @@
+# Deploying a Web Server on AWS EC2
+
+## Objective
+Deploy and secure a Linux web server on AWS.
+
+## Steps
+1. Launch an EC2 instance
+2. Configure security groups
+3. Connect using SSH
+4. Install a web server
+
+## Learning Outcome
+Students understand virtual machines and cloud security basics.
 
